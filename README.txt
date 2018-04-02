@@ -1,9 +1,6 @@
 Chord - DHT README
 ===================================================
-Group - 1 
-
-Akshay Rajput     (2014MCS2115)
-Amartya Chaudhuri (2014MCS2117)
+Akshay Rajput
 
 ===================================================
 
